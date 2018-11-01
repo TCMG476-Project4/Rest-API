@@ -5,8 +5,9 @@ if num > 1:
 		if num % i == 0:
 			isprime = False
 			break
-				
-if isprime == True:
-	print("Its prime")
-else:
-	print("Not prime")
+
+#was just using this for testing
+#if isprime == True:
+#	print("Its prime")
+#else:
+#	print("Not prime")
